@@ -1,0 +1,8 @@
+[detector.solidity-detector-file]
+manifest-index = "https://hummanta.github.io/solidity-detector-file/manifest-index.toml"
+
+[detector.solidity-detector-foundry]
+manifest-index = "https://hummanta.github.io/solidity-detector-foundry/manifest-index.toml"
+
+[detector.solidity-detector-hardhat]
+manifest-index = "https://hummanta.github.io/solidity-detector-hardhat/manifest-index.toml"
