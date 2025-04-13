@@ -1,8 +1,8 @@
 [detector.solidity-detector-file]
-manifest-index = "https://hummanta.github.io/solidity-detector-file/manifest-index.toml"
+package-index = "https://hummanta.github.io/solidity-detector-file/package-index.toml"
 
 [detector.solidity-detector-foundry]
-manifest-index = "https://hummanta.github.io/solidity-detector-foundry/manifest-index.toml"
+package-index = "https://hummanta.github.io/solidity-detector-foundry/package-index.toml"
 
 [detector.solidity-detector-hardhat]
-manifest-index = "https://hummanta.github.io/solidity-detector-hardhat/manifest-index.toml"
+package-index = "https://hummanta.github.io/solidity-detector-hardhat/package-index.toml"
