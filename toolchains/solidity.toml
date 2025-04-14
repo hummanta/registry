@@ -1,8 +1,4 @@
-[detector.solidity-detector-file]
-package-index = "https://hummanta.github.io/solidity-detector-file/package-index.toml"
-
-[detector.solidity-detector-foundry]
-package-index = "https://hummanta.github.io/solidity-detector-foundry/package-index.toml"
-
-[detector.solidity-detector-hardhat]
-package-index = "https://hummanta.github.io/solidity-detector-hardhat/package-index.toml"
+[detector]
+solidity-detector-file = "https://hummanta.github.io/solidity-detector-file"
+solidity-detector-foundry = "https://hummanta.github.io/solidity-detector-foundry"
+solidity-detector-hardhat = "https://hummanta.github.io/solidity-detector-hardhat"
