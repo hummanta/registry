@@ -1,2 +1,3 @@
 [toolchains]
 solidity = "toolchains/solidity.toml"
+toy = "toolchains/toy.toml"
