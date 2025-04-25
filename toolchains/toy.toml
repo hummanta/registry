@@ -1,2 +1,5 @@
 [detector]
 hmt-detector-toy = "https://hummanta.github.io/hmt-detector-toy"
+
+[frontend]
+hmt-frontend-toy = "https://hummanta.github.com/hmt-frontend-toy"
