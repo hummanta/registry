@@ -12,18 +12,14 @@ Contains configuration files for different programming languages supported by Hu
 
 - `solidity.toml`: Toolchain configuration for Solidity.
 - `toy.toml`: Toolchain configuration for Toy.
-- `rust.toml`: Toolchain configuration for Rust. [WIP]
 
 For more information on the toolchain concept, please refer to the [toolchain documentation](https://hummanta.github.io/docs/concepts/toolchain.html).
 
-### `targets/` [WIP]
+### `targets/`
 
 Contains configuration files for different virtual machine targets supported by Hummanta.
 
-- `evm.toml`: Configuration for the Ethereum Virtual Machine (EVM).
-- `move-vm.toml`: Configuration for the Move Virtual Machine.
-- `polka-vm.toml`: Configuration for the Polkadot Virtual Machine (PolkaVM).
-- `svm.toml`: Configuration for the Solana Virtual Machine (SVM).
+- `native.toml`: Configuration for the native machine code (e.g., x86, RISC-V, ARM64).
 
 For more information on the target concept, please refer to the [target documentation](https://hummanta.github.io/docs/concepts/target.html).
 

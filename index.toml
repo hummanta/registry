@@ -1,3 +1,6 @@
 [toolchains]
 solidity = "toolchains/solidity.toml"
 toy = "toolchains/toy.toml"
+
+[targets]
+native = "targets/native.toml"
