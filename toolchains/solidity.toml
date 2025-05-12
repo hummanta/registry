@@ -2,3 +2,6 @@
 solidity-detector-file = "https://hummanta.github.io/solidity-detector-file"
 solidity-detector-foundry = "https://hummanta.github.io/solidity-detector-foundry"
 solidity-detector-hardhat = "https://hummanta.github.io/solidity-detector-hardhat"
+
+[frontend]
+hmt-frontend-solidity = "https://hummanta.github.io/hmt-frontend-solidity"
